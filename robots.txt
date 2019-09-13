@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eifohhaht.archilab-doma.com/sitemap.xml
